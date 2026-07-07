@@ -1,4 +1,6 @@
 # 1_Processamento_Biomateriais_Haste_Femoral_Forjamento
+**Título do projeto:** Haste Femoral para Prótese de Anca Obtida por Forjamento
+
 Este projeto consistiu na análise do processo de conceção de uma haste femoral para prótese total da anca, com foco na seleção do biomaterial, nos requisitos biomecânicos e no método de processamento mais adequado para garantir resistência, durabilidade, biocompatibilidade e precisão dimensional. O trabalho foi desenvolvido no âmbito da unidade curricular de Processamento de Biomateriais, da Licenciatura em Engenharia Biomédica da Universidade do Minho.
 
 A haste femoral é uma componente estrutural essencial da prótese de anca, inserida no canal femoral para assegurar estabilidade, alinhamento e transmissão de carga durante atividades como caminhar ou correr. A sua conceção exige um equilíbrio entre resistência mecânica, resistência à fadiga, resistência ao desgaste e à corrosão, biocompatibilidade e rigidez adequada, de forma a reduzir o fenómeno de stress shielding, no qual um implante demasiado rígido transfere menos carga para o osso e pode contribuir para a sua reabsorção.
