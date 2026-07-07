@@ -17,13 +17,13 @@ A conclusão do grupo foi que a combinação entre a liga de titânio Ti-6Al-4V,
 
 Conteúdos deste projeto:
 
-Relatório final em PDF, com a caracterização da prótese de anca e da haste femoral.
-Estudo dos requisitos biomecânicos, funcionais e normativos aplicáveis a implantes ortopédicos.
-Comparação entre aço inoxidável 316L, ligas de cobalto-crómio e liga de titânio Ti-6Al-4V.
-Análise dos processos de forjamento a frio e a quente, bem como por matriz aberta e fechada.
-Justificação da escolha do forjamento a quente por matriz fechada para a produção da haste.
-Descrição das etapas de maquinagem, incluindo fresagem, torneamento, acabamento e inspeção.
-Estudo de tratamentos de superfície por jateamento abrasivo e revestimento por plasma.
-Comparação entre forjamento e fundição para o fabrico de componentes ortopédicos.
+- Relatório final em PDF, com a caracterização da prótese de anca e da haste femoral.
+- Estudo dos requisitos biomecânicos, funcionais e normativos aplicáveis a implantes ortopédicos.
+- Comparação entre aço inoxidável 316L, ligas de cobalto-crómio e liga de titânio Ti-6Al-4V.
+- Análise dos processos de forjamento a frio e a quente, bem como por matriz aberta e fechada.
+- Justificação da escolha do forjamento a quente por matriz fechada para a produção da haste.
+- Descrição das etapas de maquinagem, incluindo fresagem, torneamento, acabamento e inspeção.
+- Estudo de tratamentos de superfície por jateamento abrasivo e revestimento por plasma.
+- Comparação entre forjamento e fundição para o fabrico de componentes ortopédicos.
 
-Projeto realizado por Afonso Lopes, Gonçalo Lucas, Mário Cunha, Matilde Serra, Rafael Gonçalves e Sílvia Gonçalves, no âmbito da unidade curricular de Processamento de Biomateriais, da Licenciatura em Engenharia Biomédica da Universidade do Minho, no ano letivo 2024/2025.
+*Projeto realizado por Afonso Lopes, Gonçalo Lucas, Mário Cunha, Matilde Serra, Rafael Gonçalves e Sílvia Gonçalves, no âmbito da unidade curricular de Processamento de Biomateriais, da Licenciatura em Engenharia Biomédica da Universidade do Minho, no ano letivo 2024/2025.*
